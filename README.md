@@ -6,3 +6,5 @@ looked nice, so this document tries to recreate that using LaTeX.
 
 This LaTeX doc is an opportunity to play around with a few LaTeX packages to try and reproduce the typography there.
 
+Uses `extarticle` and `lettrine`.
+
