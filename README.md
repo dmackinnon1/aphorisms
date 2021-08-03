@@ -9,3 +9,5 @@ This LaTeX doc is an opportunity to play around with a few LaTeX packages to try
 Uses `extarticle` and `lettrine`.
 
 Updated August 3rd, 2021 
+
+Another small update
