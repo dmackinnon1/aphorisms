@@ -7,6 +7,7 @@ looked nice, so this document tries to recreate that using LaTeX.
 This LaTeX doc is an opportunity to play around with a few LaTeX packages to try and reproduce the typography there.
 
 <div>
+Open in Overleaf
 <form action="https://www.overleaf.com/docs" method="post" target="_blank">
 <input type="text" name="snip_uri"
        value="https://raw.githubusercontent.com/dmackinnon1/zenaphorisms/master/main.tex"><br>
