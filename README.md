@@ -9,3 +9,4 @@ This LaTeX doc is an opportunity to play around with a few LaTeX packages to try
 <form action="https://www.overleaf.com/docs" method="post" target="_blank"><input type="text" name="snip_uri" value="https://raw.githubusercontent.com/dmackinnon1/zenaphorisms/master/main.tex"><br><input type="submit" value="Open in Overleaf"></form>
 
 
+Another small update
