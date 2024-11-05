@@ -29,9 +29,9 @@ jobs:
       - name: Run latexmk
         run: "latexmk main.tex"
       - name: Archive document
-        uses: actions/upload-artifacts@v4
+        uses: actions/upload-artifact@v4
         with:
-        name: Documentation
+          name: document
           path: "./*.pdf"
 
 
