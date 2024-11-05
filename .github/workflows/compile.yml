@@ -27,4 +27,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Run latexmk
-        run: "latexmk"
+        run: "latexmk main.tex"
+
+
+
