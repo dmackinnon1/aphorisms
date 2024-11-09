@@ -11,7 +11,7 @@ jobs:
       - name: add permissions
         run: "git config --global --add safe.directory /__w/zenaphorisms/zenaphorisms"
       - name: cleanup old pdfs
-        run: "git rm *.pdf"
+        run: "git rm  --ignore-unmatch *.pdf"
       - name: Run latexmk
         run: "latexmk --pdflatex main.tex"
       - name: Run latexmk
